@@ -106,7 +106,7 @@
         </hashTree>
         <GenericController guiclass="LogicControllerGui" testclass="GenericController" enabled="true"/>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="/openh264-win64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip-25" enabled="true">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="/openh264-win64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip-25" enabled="false">
             <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" enabled="true">
               <collectionProp name="Arguments.arguments"/>
             </elementProp>
